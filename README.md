@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AbdulRahman Arafa</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Data Analyst. 🎲📊 Developer. 💻</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arafajs" alt="arafajs" /></a> </p>
 
